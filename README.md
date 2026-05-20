@@ -28,23 +28,23 @@
   <a href="https://icpc.global/ICPCID/5UL70ICYQGXE">
     <img src="https://news.icpc.global/icpc_foundation.svg" alt="ICPC" width="10%">
   </a>
-&emsp;
+&nbsp;
   <a href="https://codeforces.com/profile/Yahia_Hassan">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="6%">
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://leetcode.com/u/user0582wk/">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%">
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://www.codechef.com/users/yahia_hassan">
     <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="6%">
   </a>
-      &emsp;
+      &nbsp;
   <a href="https://atcoder.jp/users/Yahia_Hassan">
     <img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" width="6%">
   </a>
-    &emsp;
+    &nbsp;
   <a href="https://www.hackerrank.com/profile/yahia_hassan152">
     <img src="https://hrcdn.net/hackerrank/assets/favicon-69d2a5f80ad413089c703bf9947bfa75582c3f13fdb0a1db26fe5b59d8bfd4ce.png" alt="HackerRank" width="6%">
   </a>
@@ -58,23 +58,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://react.dev" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://redux.js.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
 </a>
@@ -84,23 +84,23 @@
 <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://expressjs.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.php.net" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.mysql.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.mongodb.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </a>
@@ -110,23 +110,23 @@
 <a href="https://git-scm.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://github.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.postman.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="cloud deployment" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://github.com/features/actions" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="ci/cd" width="50" height="50"/>
 </a>
@@ -136,19 +136,19 @@
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.java.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 </a>
@@ -164,19 +164,19 @@
 <a href="https://www.linkedin.com/in/yahia-hassan-9371b618b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61577298625427" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
 </a>
-&emsp;
+&nbsp;
 <a href="https://wa.me/201092879263" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
 </a>
-&emsp;
+&nbsp;
 <a href="https://www.instagram.com/_yahia__hassan_/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
 </a>
-&emsp;
+&nbsp;
 <a href="https://discordapp.com/users/996355501547851828" target="_blank">
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40" />
 </a>
