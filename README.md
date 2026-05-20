@@ -24,7 +24,7 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> My Competitive Programming Profiles
 
-<div align="center">
+<p align="center">
   <a href="https://icpc.global/ICPCID/5UL70ICYQGXE">
     <img src="https://news.icpc.global/icpc_foundation.svg" alt="ICPC" width="10%">
   </a>
@@ -48,12 +48,12 @@
   <a href="https://www.hackerrank.com/profile/yahia_hassan152">
     <img src="https://hrcdn.net/hackerrank/assets/favicon-69d2a5f80ad413089c703bf9947bfa75582c3f13fdb0a1db26fe5b59d8bfd4ce.png" alt="HackerRank" width="6%">
   </a>
-</div>
+</p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
-<div>
+<p align="center">
 <!-- Frontend Development -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
@@ -78,7 +78,8 @@
 <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
 </a>
-
+</p>
+<p align="center">
 <!-- Backend Development -->
 <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
@@ -103,7 +104,8 @@
 <a href="https://www.mongodb.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </a>
-
+</p>
+<p align="center">
 <!-- Tools & Technologies -->
 <a href="https://git-scm.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
@@ -128,7 +130,8 @@
 <a href="https://github.com/features/actions" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="ci/cd" width="50" height="50"/>
 </a>
-
+</p>
+<p align="center">
 <!-- Programming Languages -->
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
@@ -149,35 +152,36 @@
 <a href="https://www.java.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 </a>
-</div>
+</p>
 
 <br><br>
 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
-<div style="display: flex; align-items: center; justify-items:center; gap: 20px;">
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/yahia-hassan-9371b618b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
-
+&emsp;
 <a href="https://www.facebook.com/profile.php?id=61577298625427" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
 </a>
-
+&emsp;
 <a href="https://wa.me/201092879263" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
 </a>
-
+&emsp;
 <a href="https://www.instagram.com/_yahia__hassan_/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
 </a>
-
+&emsp;
 <a href="https://discordapp.com/users/996355501547851828" target="_blank">
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40" />
 </a>
 
-</div>
+</p>
 
 <br>
 
@@ -215,7 +219,7 @@
 </p>
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=YAHIA-HASSAN&theme=aura&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&margin-w=15" />
+  <img src="https://trophy.benkou.dev/?username=YAHIA-HASSAN&theme=aura&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&margin-w=20" />
 </p>
 
 </details>
