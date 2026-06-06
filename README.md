@@ -78,8 +78,7 @@
 <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
 </a>
-</p>
-<p align="center">
+
 <!-- Backend Development -->
 <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
@@ -104,8 +103,7 @@
 <a href="https://www.mongodb.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </a>
-</p>
-<p align="center">
+
 <!-- Tools & Technologies -->
 <a href="https://git-scm.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
@@ -130,8 +128,7 @@
 <a href="https://github.com/features/actions" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="ci/cd" width="50" height="50"/>
 </a>
-</p>
-<p align="center">
+
 <!-- Programming Languages -->
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
