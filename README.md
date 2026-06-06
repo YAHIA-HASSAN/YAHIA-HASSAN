@@ -187,6 +187,9 @@
 
 ## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50"> My Stats
 
+<details>
+<summary><b> </b></summary>
+
 &nbsp;
 
 <a href="https://github.com/YAHIA-HASSAN">
@@ -221,6 +224,8 @@
 <p align="center">
   <img src="https://trophy.benkou.dev/?username=YAHIA-HASSAN&theme=aura&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&margin-w=20" />
 </p>
+
+</details>
 
 </details>
 
